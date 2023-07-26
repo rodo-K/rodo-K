@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Rodo Kasidiari
+# 👋 Hello, I'm Rodo Kasidiari!
 
 **`About me`**
 
-🚀 Software engineer with a background in physics, skilled in mathematics, algorithms, and machine learning. Passionate about leveraging big data to drive innovation and stay at the forefront of this rapidly evolving industry. 
+👩🏻‍💻 Software engineer with a background in physics, skilled in mathematics, algorithms, and machine learning. Passionate about leveraging big data to drive innovation and stay at the forefront of this rapidly evolving industry. 
 
 ⏱️Known for meticulous planning and organization, consistently delivering high-quality results on time. A disciplined approach ensures precise and punctual outcomes. Bringing real-world experience in developing robust solutions and contributing to impactful projects.
 
