@@ -6,9 +6,9 @@
 
 ⏱️Known for meticulous planning and organization, consistently delivering high-quality results on time. A disciplined approach ensures precise and punctual outcomes. Bringing real-world experience in developing robust solutions and contributing to impactful projects.
 
-🤝 Thriving in collaborative environments, I excel at collaborating with talented peers, leveraging teamwork to enhance outcomes while continuously learning and growing.
+🤝 Thriving in collaborative environments, exceling in cooperating with talented peers, leveraging teamwork to enhance outcomes while continuously learning and growing.
 
-💡 Driven to make a tangible impact in the IT industry, I'm excited to apply my expertise to tackle challenging problems and drive meaningful change.
+💡 Driven to make a tangible impact in the IT industry! Excited to apply my expertise to tackle challenging problems and drive meaningful change.
 
 ---
 
