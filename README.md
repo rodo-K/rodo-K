@@ -8,20 +8,20 @@
 
 🤝 Thriving in collaborative environments, exceling in cooperating with talented peers, leveraging teamwork to enhance outcomes while continuously learning and growing.
 
-💡 Driven to make a tangible impact in the IT industry! Excited to apply my expertise to tackle challenging problems and drive meaningful change.
+💡 Excited to apply my expertise to tackle challenging problems and drive meaningful change.
 
 ---
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452095/ruby.svg"/>
+<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354252/rails.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="VueJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
@@ -34,7 +34,5 @@
 #
 
 ### 📊 Some stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodo-K&size_weight=0.5&count_weight=0.5&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodo-K&layout=compact)
 #
